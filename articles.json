@@ -41,5 +41,16 @@
       "Security"
     ],
     "date": "2024-12-02T08:50:57.640Z"
+  },
+  {
+    "id": 5,
+    "title": "Mastering RESTful APIs",
+    "content": "RESTful APIs have become the backbone of modern web development. They allow different software systems to communicate effectively over the internet using standard HTTP methods like GET, POST, PUT, and DELETE. Understanding the principles of REST, such as statelessness and resource-based architecture, is essential for building scalable APIs.",
+    "tags": [
+      "API",
+      "Web Development",
+      "REST"
+    ],
+    "date": "2024-12-02T09:33:01.076Z"
   }
 ]
