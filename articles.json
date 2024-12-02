@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "title": "Introduction to Node.js",
+    "content": "Node.js is a JavaScript runtime built on Chrome's V8 engine.",
+    "tags": [
+      "Node.js",
+      "JavaScript"
+    ],
+    "date": "2024-12-02T08:35:36.137Z"
+  },
+  {
+    "id": 2,
+    "title": "A Beginner's Guide to Node.js",
+    "content": "Node.js is an open-source, cross-platform runtime environment for executing JavaScript code outside of a browser. It is used for server-side development and powers many modern web applications.",
+    "tags": [
+      "Node.js",
+      "Backend",
+      "JavaScript"
+    ],
+    "date": "2024-12-02T08:43:34.661Z"
+  },
+  {
+    "id": 3,
+    "title": "Artificial Intelligence and the Future",
+    "content": "AI is transforming industries, from healthcare to transportation. As machine learning models improve, the potential applications of AI continue to expand, creating both opportunities and challenges.",
+    "tags": [
+      "AI",
+      "Technology",
+      "Innovation"
+    ],
+    "date": "2024-12-02T08:50:05.266Z"
+  },
+  {
+    "id": 4,
+    "title": "The Importance of Cybersecurity in 2024",
+    "content": "As cyber threats grow more sophisticated, cybersecurity has become a top priority for individuals and organizations. Practices like regular updates, strong passwords, and awareness can mitigate risks.",
+    "tags": [
+      "Cybersecurity",
+      "Technology",
+      "Security"
+    ],
+    "date": "2024-12-02T08:50:57.640Z"
+  }
+]
